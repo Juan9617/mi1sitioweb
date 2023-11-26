@@ -1,0 +1,18 @@
+body {
+    background-color: #333; 
+    color: white; 
+    text-align: center; 
+}
+
+h1 {
+    background-color: white; 
+    padding: 10px;
+    color:crimson; 
+}
+
+p {
+    background-color: white;
+    color:black;
+    padding: 10px;
+    text-align: center;
+}
